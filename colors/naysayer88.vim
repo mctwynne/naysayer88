@@ -120,3 +120,5 @@ highlight! link SignColumn Default
 "
 highlight Conceal ctermbg=none ctermfg=none guibg=none guifg=none
 highlight ColorColumn ctermbg=lightblue ctermfg=lightblue guibg=lightblue guifg=lightblue
+
+highlight link @lsp.type.function.c NONE
